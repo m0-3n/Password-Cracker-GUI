@@ -38,8 +38,7 @@ These methods help demonstrate why complex, uncommon passwords are more secure.
 
 ## GUI Preview
 
-![Password Cracker GUI Screenshot](screenshot.jpeg)  
-*Add a screenshot of the GUI interface above.*
+![Password Cracker GUI Screenshot](screenshot.jpeg)
 
 ---
 
